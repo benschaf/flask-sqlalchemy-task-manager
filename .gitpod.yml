@@ -1,4 +1,1 @@
 image: gitpod/workspace-postgres
-
-tasks:
-  - init: sudo apt-get update && sudo apt-get install -y postgresql-client
